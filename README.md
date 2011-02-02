@@ -11,7 +11,7 @@
 
 An email address needs to be encrypted to create an email verification token. 
 In this example `alfredwesterveld@gmail.com` is getting encrypted using `KEY = 123`.
-This keys needs to be updated to create a different email verification token.
+This key needs to be updated to create a different(your) email verification token.
 
     // To create secret token for email adress.
     var email = require('email-verificationtoken');
