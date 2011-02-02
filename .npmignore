@@ -1,0 +1,5 @@
+.git*
+examples/
+.monitor
+nodemon-ignore
+test/
