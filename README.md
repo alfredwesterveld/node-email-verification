@@ -5,7 +5,7 @@
 
 #Installation
 
-    npm install 
+    npm install email-verificationtoken
     
 #Example
 
