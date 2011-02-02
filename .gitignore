@@ -1,2 +1,3 @@
 .monitor
 nodemon-ignore
+lib-cov/
