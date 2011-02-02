@@ -5,9 +5,8 @@
     'email': 'alfredwesterveld@gmail.com'}],
     "dependencies": { 
         "express" : ">= 0.0.1",
-        "openid" : ">= 0.1.1 <= 0.1.1"
     },
-  version: '0.0.1',
+  version: '0.0.2',
   repository: {
     'type': 'git',
     'url': 'https://alfredwesterveld@github.com/alfredwesterveld/node-email-verification.git' },
@@ -16,6 +15,6 @@
     'lib' : './lib' },
   'main' : './lib/email-verification.js',
   "engines" : { 
-    "node" : ">= 0.2.6 < 0.3.0",
+    "node" : ">= 0.2.6",
   }
 }
