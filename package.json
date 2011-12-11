@@ -1,17 +1,17 @@
-{ name: 'email-verificationtoken',
-  description: 'Create Email verification token',
-  maintainers: [{ 
-    'name': 'Alfred Westerveld',
-    'email': 'alfredwesterveld@gmail.com'}],
-  version: '0.0.3',
-  repository: {
-    'type': 'git',
-    'url': 'https://alfredwesterveld@github.com/alfredwesterveld/node-email-verification.git' },
-  bugs: 'https://github.com/alfredwesterveld/node-email-verification/issues',
-  'directories' : {
-    'lib' : './lib' },
-  'main' : './lib/email-verification.js',
-  "engines" : { 
-    "node" : ">= 0.2.6",
+{ "name": "email-verificationtoken",
+  "description": "Create Email verification token",
+  "maintainers": [{
+    "name": "Alfred Westerveld",
+    "email": "alfredwesterveld@gmail.com"}],
+  "version" : "0.0.3",
+  "repository" : {
+    "type": "git",
+    "url": "https://alfredwesterveld@github.com/alfredwesterveld/node-email-verification.git" },
+  "bugs": "https://github.com/alfredwesterveld/node-email-verification/issues",
+  "directories" : {
+    "lib" : "./lib" },
+  "main": "./lib/email-verification.js",
+  "engines": { 
+    "node" : ">= 0.2.6"
   }
 }
